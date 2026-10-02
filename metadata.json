@@ -1,0 +1,6 @@
+{
+  "name": "Blockly to Arduino",
+  "description": "Turn Blockly visual blocks and XML into Arduino C++ code with robust error diagnostics, hardware pinout visualizer, and syntax preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
